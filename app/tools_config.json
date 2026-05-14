@@ -1,0 +1,16 @@
+{
+    "api_config": {
+        "provider": "DeepSeek",
+        "api_key": "sk-4e3b0bc4fee74365b5a0fcc1fdd27470",
+        "base_url": "https://api.deepseek.com",
+        "model": "deepseek-chat"
+    },
+    "rules": {
+        "RCE001": false,
+        "RCE002": false,
+        "RCE003": false,
+        "RCE004": false,
+        "DES001": false,
+        "PATH001": false
+    }
+}
